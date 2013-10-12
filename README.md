@@ -1,4 +1,4 @@
-# radio-paradise
+# radio-paradise-api-server
 
 HTTP API to get the current and last playing songs of [Radio Paradise](http://radioparadise.com)
 
